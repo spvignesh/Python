@@ -1,0 +1,10 @@
+1. Download Python from https://www.python.org/downloads/ (latest version 3.7)
+2. Install Python 3.7.4
+
+Test Python (Hello World)
+3. Open Notepad and add the below code snippet
+   print ("Hello World!");
+4. Save the file as HelloWorld.py
+5. Open cmd and open the file location (cd c:\..\..)
+6. Type the Filename (HelloWorld.py) and press enter.
+7. ouput -> Hello World!
