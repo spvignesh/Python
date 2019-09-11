@@ -7,9 +7,9 @@ print("var2[1:5]:",var2[1:5])
 print("---------------")
 print('\n')
 
-#Contact
+#Concat
 x = "Hello World!"
-print( "Contact string")
+print( "Concat string")
 print( x[:6] )
 print( x[0:6] + "User")
 print("---------------")
