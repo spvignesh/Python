@@ -1,0 +1,3 @@
+Steps in Install modules,
+1. Open cmd and Type "cd <<PythonInstallationPath>>\Scripts", and
+2. Type "python -m pip install <<moduleName>>" (ex: python -m pip install xlrd)
