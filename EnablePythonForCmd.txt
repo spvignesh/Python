@@ -4,3 +4,4 @@ Enable Python in cmd
 2. Choose "Path" and click Edit.
 3. Click New and enter the python installed path (where python.exe exists).
 4. Open cmd and type python. (No error and python version will be displayed).
+5. Enter exit() or quit() to quit python programming in cmd.
