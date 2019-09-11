@@ -1,0 +1,6 @@
+Enable Python in cmd
+
+1. Start->MyComputer->System Properties-> Advanced Setting -> Environment Variables -> System Varibales
+2. Choose "Path" and click Edit.
+3. Click New and enter the python installed path (where python.exe exists).
+4. Open cmd and type python. (No error and python version will be displayed).
