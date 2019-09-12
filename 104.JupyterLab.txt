@@ -1,0 +1,5 @@
+
+1. Open cmd and go to python source location and then Type "pip install jupyterlab" (Installs jupterlab ie. https://jupyter.org/install.html)
+2. Type "jupyter notebook" and it opens the browser.
+3. Click New -> Python 3 (A new notebook is opened in another tab)
+4. Enter print("Hello World!") and Run the program. (The new created notebook can be seen in the dashboard/homepage as <<filename>>.ipynb)
