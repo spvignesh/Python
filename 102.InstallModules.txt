@@ -1,3 +1,4 @@
 Steps in Install modules,
-1. Open cmd and Type "cd <<PythonInstallationPath>>\Scripts", and
-2. Type "python -m pip install <<moduleName>>" (ex: python -m pip install xlrd)
+1. Open Cmd and Type "where python" 
+2. Use the location and Type "cd <<PythonInstallationPath>>\Scripts", and
+3. Type "python -m pip install <<moduleName>>" (ex: python -m pip install xlrd)
