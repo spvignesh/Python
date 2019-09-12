@@ -1,0 +1,10 @@
+
+1. #Pre-requisites Install the below using your Terminal
+    python -m pip install -U pip
+    python -m pip install -U matplotlib
+
+2. Enter the below code in your notebook editor and run it.
+import matplotlib.pyplot as plt
+plt.plot([1,2,3,4],[1,4,9,16])
+
+3. If you could see the graph, then it is completed.
