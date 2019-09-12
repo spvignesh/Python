@@ -2,3 +2,4 @@ Steps in Install modules,
 1. Open Cmd and Type "where python" 
 2. Use the location and Type "cd <<PythonInstallationPath>>\Scripts", and
 3. Type "python -m pip install <<moduleName>>" (ex: python -m pip install xlrd)
+4. Type "pip install jupyterlab" (Installs jupterlab ie. https://jupyter.org/install.html)
