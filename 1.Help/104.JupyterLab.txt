@@ -5,6 +5,6 @@
 4. Enter print("Hello World!") and Run the program. (The new created notebook can be seen in the dashboard/homepage as <<filename>>.ipynb)
 
 
-Follow the below steps to excute it,
+Follow the below steps to import modules,
 1. Go to Dashboard-> New -> Terminal and install the modules. (If modules are required. ex: python -m pip install -U matplotlib)
 2. Import the module and work in your notebook.
