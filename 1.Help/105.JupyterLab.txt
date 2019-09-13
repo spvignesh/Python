@@ -1,5 +1,0 @@
-The series with 300 to 400 uses JupyterLab.
-Follow the below steps to excute it,
-1. Follow 104.JupyterLab.txt.
-2. Go to Dashboard-> New -> Terminal and install the modules. (If modules are required. ex: python -m pip install -U matplotlib)
-3. Import the module and work in your notebook.
