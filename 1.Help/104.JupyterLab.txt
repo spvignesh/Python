@@ -3,3 +3,8 @@
 2. Type "jupyter notebook" and it opens the browser.
 3. Click New -> Python 3 (A new notebook is opened in another tab)
 4. Enter print("Hello World!") and Run the program. (The new created notebook can be seen in the dashboard/homepage as <<filename>>.ipynb)
+
+
+Follow the below steps to excute it,
+1. Go to Dashboard-> New -> Terminal and install the modules. (If modules are required. ex: python -m pip install -U matplotlib)
+2. Import the module and work in your notebook.
